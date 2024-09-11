@@ -1,0 +1,20 @@
+[
+
+	{ "NOMBRE": "IBEX 35",
+	  "PAR": "IBEX/EUR",
+	  "BOLSA": "MADRID", 
+	  "INFO": "https://es.investing.com/indices/spain-35?cid=26491",
+	  "HISTORICO": "https://es.investing.com/indices/spain-35-historical-data?cid=26491",
+	  "COMPONENTES": "https://es.investing.com/indices/spain-35-components?cid=26491"
+	},
+	
+   	{ "NOMBRE": "S&P 500",
+   	  "PAR": "SPX/USD",
+   	  "BOLSA": "Nueva York", 
+   	  "INFO": "https://es.investing.com/indices/us-spx-500?cid=40826",
+	  "HISTORICO": "https://es.investing.com/indices/us-spx-500-historical-data?cid=40826",
+	  "COMPONENTES": "https://es.investing.com/indices/investing.com-us-500-components"
+   	}
+    	
+]
+

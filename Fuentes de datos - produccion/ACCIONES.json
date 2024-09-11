@@ -1,0 +1,138 @@
+[
+    
+    { "NOMBRE": "UNICAJA BANCO SA",
+	  "PAR": "UNI/EUR",
+	  "BOLSA": "MADRID", 
+	  "INFO": "https://es.investing.com/equities/unicaja-banco-sa-company-profile?cid=1199852",
+	  "HISTORICO": "https://es.investing.com/equities/unicaja-banco-sa-historical-data?cid=1199852",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/unicaja-banco-sa-dividends?cid=1199852",
+            	     "https://es.finance.yahoo.com/quote/UNI.MC/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/unicaja-banco-sa-income-statement?cid=1199852",
+                        	  "https://es.investing.com/equities/unicaja-banco-sa-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/unicaja-banco-sa-balance-sheet?cid=1199852",
+        	     "https://es.investing.com/equities/unicaja-banco-sa-balance-sheet"]
+	  
+	},
+
+    { "NOMBRE": "REPSOL S.A.",
+        "PAR": "REP/EUR",
+        "BOLSA": "MADRID", 
+        "INFO": "https://es.investing.com/equities/repsol-ypf-company-profile?cid=32240",
+        "HISTORICO": "https://es.investing.com/equities/repsol-ypf-historical-data?cid=32240",
+        "DIVIDENDOS": ["https://es.investing.com/equities/repsol-ypf-dividends?cid=32240",
+                        "https://es.finance.yahoo.com/quote/REP.MC/history/"],
+        "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/repsol-ypf-income-statement?cid=32240",
+                                "https://es.investing.com/equities/repsol-ypf-income-statement"],
+        "BALANCE": ["https://es.investing.com/equities/repsol-ypf-balance-sheet?cid=32240",
+                    "https://es.investing.com/equities/repsol-ypf-balance-sheet"]
+	},
+   	
+  	{ "NOMBRE": "NVIDIA",
+  	  "PAR": "NVDA/USD",
+  	  "BOLSA": "NASDAQ", 
+  	  "INFO": "https://es.investing.com/equities/nvidia-corp-company-profile",
+	  "HISTORICO": "https://es.investing.com/equities/nvidia-corp-historical-data",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/nvidia-corp-dividends",
+                	"https://es.finance.yahoo.com/quote/NVD.DE/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/nvidia-corp-income-statement",
+                    	      "https://es.investing.com/equities/nvidia-corp-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/nvidia-corp-balance-sheet",
+            	  "https://es.investing.com/equities/nvidia-corp-balance-sheet"]
+  	},
+      	
+  	{ "NOMBRE": "ACERINOX ",
+  	  "PAR": "ACX/EUR",
+  	  "BOLSA": "MADRID", 
+  	  "INFO": "https://es.investing.com/equities/acerinox-company-profile?cid=1009335",
+	  "HISTORICO": "https://es.investing.com/equities/acerinox-historical-data?cid=1009335",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/acerinox-dividends?cid=1009335",
+            	     "https://es.finance.yahoo.com/quote/ACX.MC/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/acerinox-income-statement?cid=1009335",
+                        	   "https://es.investing.com/equities/acerinox-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/acerinox-income-statement?cid=1009335",
+        	     "https://es.investing.com/equities/acerinox-balance-sheet"]
+  	},
+
+	{ "NOMBRE": "VOLKSWAGEN AG VZO O.N.",
+  	  "PAR": "VOWG_P/EUR",
+  	  "BOLSA": "FRANCFORT", 
+  	  "INFO": "https://es.investing.com/equities/volkswagen-vz-company-profile?cid=962978",
+	  "HISTORICO": "https://es.investing.com/equities/volkswagen-vz-historical-data?cid=962978",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/volkswagen-vz-dividends?cid=962978",
+            	     "https://es.finance.yahoo.com/quote/VOW3.F/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/volkswagen-vz-income-statement?cid=962978",
+                        	   "https://es.investing.com/equities/volkswagen-vz-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/volkswagen-vz-balance-sheet?cid=962978",
+            	  "https://es.investing.com/equities/volkswagen-vz-balance-sheet"]
+  	},
+
+	{ "NOMBRE": "BANCO SANTANDER S.A.",
+	  "PAR": "SAN/EUR",
+	  "BOLSA": "MADRID", 
+	  "INFO": "https://es.investing.com/equities/banco-santander-company-profile?cid=32212",
+	  "HISTORICO": "https://es.investing.com/equities/banco-santander-historical-data?cid=32212",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/banco-santander-dividends?cid=32212",
+				   "https://es.finance.yahoo.com/quote/SAN.MC/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/banco-santander-income-statement?cid=32212",
+                        	  "https://es.investing.com/equities/banco-santander-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/banco-santander-balance-sheet?cid=32212",
+        	     "https://es.investing.com/equities/banco-santander-balance-sheet"]
+	},
+
+	{ "NOMBRE": "CAIXABANK S.A.",
+  	  "PAR": "CABK/EUR",
+  	  "BOLSA": "MADRID", 
+  	  "INFO": "https://es.investing.com/equities/caixabank-sa-company-profile?cid=1009340",
+	  "HISTORICO": "https://es.investing.com/equities/caixabank-sa-historical-data?cid=1009340",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/caixabank-sa-dividends?cid=1009340",
+            	     "https://es.finance.yahoo.com/quote/CABK.MC/history/"],
+	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/caixabank-sa-income-statement?cid=1009340",
+                        	  "https://es.investing.com/equities/caixabank-sa-income-statement"],
+	  "BALANCE": ["https://es.investing.com/equities/caixabank-sa-balance-sheet?cid=1009340",
+            	  "https://es.investing.com/equities/caixabank-sa-balance-sheet"]
+  	},
+  	
+  	{ "NOMBRE": "BANCO BILBAO VIZCAYA ARGENTARIA SA",
+  	  "PAR": "BBVA/EUR",
+  	  "BOLSA": "MADRID", 
+  	  "INFO": "https://es.investing.com/equities/bbva-company-profile?cid=32289",
+  	  "HISTORICO": "https://es.investing.com/equities/bbva-historical-data?cid=32289",
+  	  "DIVIDENDOS": ["https://es.investing.com/equities/bbva-dividends?cid=32289",
+              	     "https://es.finance.yahoo.com/quote/BBVA.MC/history/"],
+  	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/bbva-income-statement?cid=32289",
+                          	  "https://es.investing.com/equities/bbva-income-statement"],
+  	  "BALANCE": ["https://es.investing.com/equities/bbva-balance-sheet?cid=32289",
+              	  "https://es.investing.com/equities/bbva-balance-sheet"]
+  	  
+  	},
+  	  	
+  	{ "NOMBRE": "BANCO DE SABADELL SA",
+  	  "PAR": "SABE/EUR",
+  	  "BOLSA": "MADRID", 
+  	  "INFO": "https://es.investing.com/equities/bco-de-sabadell-company-profile?cid=32216",
+  	  "HISTORICO": "https://es.investing.com/equities/bco-de-sabadell-historical-data?cid=32216",
+  	  "DIVIDENDOS": ["https://es.investing.com/equities/bco-de-sabadell-dividends",
+              	     "https://es.finance.yahoo.com/quote/SAB.MC/history/"],
+  	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/bco-de-sabadell-income-statement?cid=32216",
+                          	  "https://es.investing.com/equities/bco-de-sabadell-income-statement"],
+  	  "BALANCE": ["https://es.investing.com/equities/bco-de-sabadell-balance-sheet?cid=32216",
+              	  "https://es.investing.com/equities/bco-de-sabadell-balance-sheet"]
+   	  
+  	},
+  	
+  	{ "NOMBRE": "BANKINTER S.A.",
+  	  "PAR": "BKT/EUR",
+  	  "BOLSA": "MADRID", 
+  	  "INFO": "https://es.investing.com/equities/bankinter-company-profile?cid=1009339",
+  	  "HISTORICO": "https://es.investing.com/equities/bankinter-historical-data?cid=1009339",
+  	  "DIVIDENDOS": ["https://es.investing.com/equities/bankinter-dividends?cid=1009339",
+              	     "https://es.finance.yahoo.com/quote/BKT.MC/history/"],
+  	  "CUENTA DE RESULTADOS": ["https://es.investing.com/equities/bankinter-income-statement?cid=1009339",
+                          	  "https://es.investing.com/equities/bankinter-income-statement"],
+  	  "BALANCE": ["https://es.investing.com/equities/bankinter-balance-sheet?cid=1009339",
+              	  "https://es.investing.com/equities/bankinter-balance-sheet"]
+  	  
+  	} 	
+    	
+]
+

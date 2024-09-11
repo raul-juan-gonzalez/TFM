@@ -1,0 +1,20 @@
+[
+
+	{ "NOMBRE": "Quality Inversión Moderada Fi",
+	  "PAR": "172242002/EUR",
+	  "INFO": "https://es.investing.com/funds/quality-inversion-moderada-fi-company-profile",
+	  "HISTORICO": ["https://es.investing.com/funds/quality-inversion-moderada-fi-historical-data",
+        	        "Datos historicos 172242002.csv",
+        	        "https://finance.yahoo.com/quote/0P00009U4J.F/history/"]	       
+    },
+	
+	{ "NOMBRE": "Myinvestor Indexado S&p 500 Pp",
+	  "PAR": "0P0001LIG8/EUR",
+	  "INFO": "https://es.investing.com/funds/myinvestor-indexado-s-p-500-pp-company-profile",
+	  "HISTORICO": ["https://es.investing.com/funds/myinvestor-indexado-s-p-500-pp-historical-data",
+        	        "Datos historicos 0P0001LIG8.csv",
+        	        "https://finance.yahoo.com/quote/0P0001LIG8.F/history/"]	       
+	}
+    	
+]
+

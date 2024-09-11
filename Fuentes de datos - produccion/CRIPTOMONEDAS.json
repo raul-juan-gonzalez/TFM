@@ -1,0 +1,30 @@
+[
+	{ "NOMBRE": "BITCOIN",
+	  "PAR": "BTC/EUR",
+	  "BOLSA": "KRAKEN", 
+	  "INFO": "https://es.investing.com/crypto/bitcoin/btc-eur",
+	  "HISTORICO": "https://es.investing.com/crypto/bitcoin/btc-eur-historical-data"
+	},
+
+	{ "NOMBRE": "ETHEREUM",
+	  "PAR": "ETH/EUR",
+	  "BOLSA": "KRAKEN", 
+	  "INFO": "https://es.investing.com/crypto/ethereum/eth-eur",
+	  "HISTORICO": "https://es.investing.com/crypto/ethereum/eth-eur-historical-data"
+	},
+
+	{ "NOMBRE": "SOLANA",
+	  "PAR": "SOL/EUR",
+	  "BOLSA": "BINANCE", 
+	  "INFO": "https://es.investing.com/crypto/solana/sol-eur",
+	  "HISTORICO": "https://es.investing.com/crypto/solana/sol-eur-historical-data"
+	},
+
+	{ "NOMBRE": "BINANCE COIN",
+	  "PAR": "BNB/USD",
+	  "BOLSA": "INVESTING.COM", 
+	  "INFO": "https://es.investing.com/crypto/bnb/bnb-usd",
+	  "HISTORICO": "https://es.investing.com/crypto/bnb/historical-data"
+	}
+	
+]

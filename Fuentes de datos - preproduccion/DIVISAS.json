@@ -1,0 +1,11 @@
+[
+
+	{ "NOMBRE": "Dolar",
+	  "PAR": "USD/EUR",
+	  "BOLSA": "MADRID", 
+	  "INFO": "https://es.investing.com/currencies/usd-eur",
+	  "HISTORICO": "https://es.investing.com/currencies/usd-eur-historical-data"
+	}
+    	
+]
+

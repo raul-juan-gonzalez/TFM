@@ -1,0 +1,18 @@
+[
+
+   	{ "NOMBRE": "Lyxor UCITS Ibex 35 Doble Apalancado Diario C-EUR",
+   	  "PAR": "IBEXA/EUR",
+   	  "BOLSA": "MADRID", 
+   	  "INFO": "https://es.investing.com/etfs/lyxor-ibex-35-doble-apalancado-profile",
+   	  "HISTORICO": "https://es.investing.com/etfs/lyxor-ibex-35-doble-apalancado-historical-data"
+   	},
+   	
+   	{ "NOMBRE": "ProShares UltraShort 20+ Year Treasury",
+   	  "PAR": "TBT/USD",
+   	  "BOLSA": "NUEVA YORK", 
+   	  "INFO": "https://es.investing.com/etfs/proshares-ultrashort-20-year-treas-profile",
+   	  "HISTORICO": "https://es.investing.com/etfs/proshares-ultrashort-20-year-treas-historical-data"
+   	}
+   	
+]
+

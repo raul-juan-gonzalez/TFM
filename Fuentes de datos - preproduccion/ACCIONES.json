@@ -1,0 +1,27 @@
+[
+
+	{ "NOMBRE": "Banco Bilbao Vizcaya Argentaria SA",
+	  "PAR": "BBVA/EUR",
+	  "BOLSA": "MADRID", 
+	  "INFO": "https://es.investing.com/equities/bbva-company-profile?cid=32289",
+	  "HISTORICO": "https://es.investing.com/equities/bbva-historical-data?cid=32289",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/bbva-dividends?cid=32289",
+            	         "https://es.finance.yahoo.com/quote/BBVA.MC/history/"],
+	  "CUENTA DE RESULTADOS": "https://es.investing.com/equities/bbva-income-statement?cid=32289",
+	  "BALANCE": "https://es.investing.com/equities/bbva-balance-sheet?cid=32289"
+	  
+	},
+	   	
+  	{ "NOMBRE": "NVIDIA",
+  	  "PAR": "NVDA/USD",
+  	  "BOLSA": "NASDAQ", 
+  	  "INFO": "https://es.investing.com/equities/nvidia-corp-company-profile",
+	  "HISTORICO": "https://es.investing.com/equities/nvidia-corp-historical-data",
+	  "DIVIDENDOS": ["https://es.investing.com/equities/nvidia-corp-dividends",
+                	"https://es.finance.yahoo.com/quote/NVD.DE/history/"],
+	  "CUENTA DE RESULTADOS": "https://es.investing.com/equities/nvidia-corp-income-statement",
+	  "BALANCE": "https://es.investing.com/equities/nvidia-corp-balance-sheet"
+  	}   	
+    	
+]
+
